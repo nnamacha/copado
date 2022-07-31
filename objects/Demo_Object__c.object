@@ -166,7 +166,7 @@
         <fullName>First_Field__c</fullName>
         <externalId>false</externalId>
         <label>First Field</label>
-        <length>35</length>
+        <length>39</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
@@ -176,7 +176,7 @@
         <fullName>Second_Field__c</fullName>
         <externalId>false</externalId>
         <label>Second Field</label>
-        <length>35</length>
+        <length>25</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
